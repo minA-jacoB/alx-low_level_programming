@@ -1,2 +1,2 @@
 #!/bin/bash
-this task 
+gcc -E $CFILE -o c 
