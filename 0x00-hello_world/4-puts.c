@@ -1,11 +1,7 @@
 #include<stdio.h>
 
 /*print this article
- *1
- *2
- *3
- *4
- * */
+ * dfgh*/
 
 
 int main(void)
