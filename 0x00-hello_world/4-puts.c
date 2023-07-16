@@ -1,7 +1,6 @@
 #include<stdio.h>
 
-/*print this article
- * dfgh*/
+/*print this article*/
 
 
 int main(void)
