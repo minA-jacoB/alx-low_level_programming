@@ -1,6 +1,11 @@
 #include<stdio.h>
 
-/*print this article*/
+/*print this article
+ *1
+ *2
+ *3
+ *4
+ * */
 
 
 int main(void)
