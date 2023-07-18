@@ -6,7 +6,6 @@
  * Return: Always 0.
  */
 
-
 void print_alphabet_x10(void)
 {
 	int i = 0;
@@ -16,15 +15,13 @@ void print_alphabet_x10(void)
 	{
 		alpha = 'a';
 		
-		while(ch <= 'z')
+		while(alpha <= 'z')
 		{
-			putchar(ch);
-			ch++;
+			putchar(alpha);
+			alpha++;
 		}
 		i++;
-	}
-}
-
-		
+		putchar('\n')
+	}	
     return (0);
 }
