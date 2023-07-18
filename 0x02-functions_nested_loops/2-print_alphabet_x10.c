@@ -6,7 +6,7 @@
  * Return: Always 0.
  */
 
-int print_alphabet_x10(void)
+char print_alphabet_x10(void)
 {
 	int i = 0;
 	char alpha;
