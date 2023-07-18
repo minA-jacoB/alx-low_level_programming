@@ -10,7 +10,7 @@ int main(void)
 	print_alphabet();
 	return (0);
 }
-void print_alphabet(void)
+char print_alphabet(void)
 {
 	int i;
 
@@ -19,4 +19,4 @@ void print_alphabet(void)
 		putchar(i);
 	}
 	putchar('\n');
-}
+print_alphabet}
