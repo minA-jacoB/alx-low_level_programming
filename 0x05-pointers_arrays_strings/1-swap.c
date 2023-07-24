@@ -12,9 +12,9 @@ void swap_int(int *a, int *b)
 
 	*a = 98;
 	*b = 42;
-	*c = *a;
+	c = *a;
 	*a = *b;
-	*b = *c;
+	*b = c;
 	
 	printf("%d , %d"a , b);
 }
